@@ -16,9 +16,6 @@ A sleek and responsive navigation component built with React and TailwindCSS, id
 
 ## Demo
 
-![Preview](https://via.placeholder.com/600x400)  
-*(Replace with an actual screenshot or demo GIF)*
-
 Live demo: [Giet Dashboard Demo](https://giet-dashboard.netlify.app/)
 
 ## Installation
