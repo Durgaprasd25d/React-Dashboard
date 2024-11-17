@@ -1,7 +1,3 @@
-Here’s the modified version of your README file with the updated title and other necessary adjustments:
-
----
-
 # Giet Dashboard
 
 A sleek and responsive navigation component built with React and TailwindCSS, ideal for creating modern dashboard interfaces. This component allows for a dynamic layout with smooth transitions and a collapsible menu system.
